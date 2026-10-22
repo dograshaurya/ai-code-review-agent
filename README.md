@@ -1,4 +1,3 @@
-@'
 # AI Code Review Agent
 
 An AI-powered code review API built with FastAPI and Ollama. It analyzes submitted code for potential bugs, security risks, and code-quality issues using a locally hosted language model.
